@@ -3,7 +3,7 @@
  * @author </Manifest>
  * @version 2.1.2
  * @description The theme where calm meets customization.
- * @source https://github.com/Manifestily/Chillax
+ * @source https://manifestily.github.io/Chillax
 */
 
 /*
@@ -19,23 +19,23 @@
 */
 
 /* CHILLAX theme entry point */
-@import url("https://github.com/Manifestily/Chillax/chillax.css");
+@import url("https://manifestily.github.io/Chillax/chillax.css");
 
 /* removable addons */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
 @import url("https://chillax-org.github.io/Discolored/main.css");
-@import url("https://github.com/Manifestily/Chillax/Addons/IconPackEdited.css");
-@import url("https://github.com/Manifestily/Chillax/Addons/AvatarOnlyMemberList.css");
-@import url("https://github.com/Manifestily/Chillax/Addons/FolderRedesign.css");
+@import url("https://manifestily.github.io/Chillax/Addons/IconPackEdited.css");
+@import url("https://manifestily.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://manifestily.github.io/Chillax/Addons/FolderRedesign.css");
 @import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/refs/heads/deploy/RadialStatus.css");
-@import url("https://github.com/Manifestily/Chillax/Addons/FriendGrid.css");
-@import url("https://github.com/Manifestily/Chillax/Addons/ColoredLinks.css");
+@import url("https://manifestily.github.io/Chillax/Addons/FriendGrid.css");
+@import url("https://manifestily.github.io/Chillax/Addons/ColoredLinks.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
 
 /* To hide annoying elements such as nitro, shop, sticker picker etc tab (remove the both * to use)*/
-/*@import url("https://github.com/Manifestily/Chillax/Addons/HideAnnoyingElements.css");*/
+/*@import url("https://manifestily.github.io/Chillax/Addons/HideAnnoyingElements.css");*/
 
 
 /*Chillax Roots*/
@@ -44,10 +44,10 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://github.com/Manifestily/Chillax/Wallpapers/chillax-default.png");
+    --wallpaper: url("https://manifestily.github.io/Chillax/Wallpapers/chillax-default.png");
     /*modern background selection*/
-    --modern-dark-bg: url("https://github.com/Manifestily/Chillax/Wallpapers/modern-dark-bg.png");
-    --modern-light-bg: url("https://github.com/Manifestily/Chillax/Wallpapers/modern-light-bg.png");
+    --modern-dark-bg: url("https://manifestily.github.io/Chillax/Wallpapers/modern-dark-bg.png");
+    --modern-light-bg: url("https://manifestily.github.io/Chillax/Wallpapers/modern-light-bg.png");
 }
 
 
@@ -178,7 +178,7 @@
 /*!*friends grid banner colour*!*/
 /*.theme-dark {*/
 /*    --FG-cards-banner-background: transparent !important;*/
-/*}*/
+/*}
 
 /*.theme-light {*/
 /*    --FG-cards-banner-background: transparent !important;*/
@@ -191,5 +191,3 @@
 - You do not have the rights to remove our theme watermark in the theme
 - You do not have the rights to change this theme author/dev/maintainer name to anyone
 */
-
-
