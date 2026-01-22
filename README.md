@@ -2,16 +2,6 @@
 
 ![chillax cover](https://github.com/Manifestily/Chillax/assets/84565593/eedd9969-6f6d-4cf0-8885-89cefa473085)
 
-<div align="center">
-    <hr width="250px"/>
-    <div align="center">
-        <a href="https://e-z.bio/manifest" target="_blank">
-        </a>
-        
-    </div>
-    <hr width="250px"/>
-</div>
-
 # Installation
 
 <details>
