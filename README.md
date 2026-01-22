@@ -1,4 +1,4 @@
-<h1 align="center"> </Manifest> presents:   C H I L L A X </h1>
+<h1 align="center"> Manifest presents:   C H I L L A X </h1>
 
 ![chillax cover](https://media.discordapp.net/attachments/1446155020608475136/1463981773884096604/AoaP1zo.png?ex=6973cec6&is=69727d46&hm=4c4ca9f49b9e972adfda66717fa9bf0721fe582f95453677c0f721d5ad6a60ed&animated=true)
 
