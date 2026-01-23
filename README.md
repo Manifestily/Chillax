@@ -48,15 +48,12 @@ For problems installing or using the theme,
 Dm Manifest [https://e-z.bio/manifest](https://e-z.bio/manifest)
 and ask for help.
 
-# Authors
 
 ## Owner
 
 - › [Manifest](https://e-z.bio/manifest)
 
-I just wanna quickly say thank you to everyone who helped, supported, and used this theme.
-LUV ALL OF YOU!!
-
+I just wanna quickly say thank you for using this <3
 &#160;
 
 <p align="center">Copyright &copy; 2020-2026
