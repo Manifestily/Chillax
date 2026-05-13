@@ -19,23 +19,23 @@
 */
 
 /* CHILLAX theme entry point */
-@import url("https://manifestily.github.io/Chillax/chillax.css");
+@import url("https://hatefulvrc.github.io/Chillax/chillax.css");
 
 /* removable addons */
 /*@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");*/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
 @import url("https://chillax-org.github.io/Discolored/main.css");
-@import url("https://manifestily.github.io/Chillax/Addons/IconPackEdited.css");
-@import url("https://manifestily.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
-@import url("https://manifestily.github.io/Chillax/Addons/FolderRedesign.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/IconPackEdited.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/FolderRedesign.css");
 @import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/refs/heads/deploy/RadialStatus.css");
-@import url("https://manifestily.github.io/Chillax/Addons/FriendGrid.css");
-@import url("https://manifestily.github.io/Chillax/Addons/ColoredLinks.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/FriendGrid.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/ColoredLinks.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
 
 /* To hide annoying elements such as nitro, shop, sticker picker etc tab (remove the both * to use)*/
-@import url("https://manifestily.github.io/Chillax/Addons/HideAnnoyingElements.css");
+@import url("https://hatefulvrc.github.io/Chillax/Addons/HideAnnoyingElements.css");
 
 
 /*Chillax Roots*/
@@ -44,10 +44,10 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://manifestily.github.io/Chillax/Wallpapers/chillax-default.png");
+    --wallpaper: url("https://hatefulvrc.github.io/Chillax/Wallpapers/chillax-default.png");
     /*modern background selection*/
-    --modern-dark-bg: url("https://manifestily.github.io/Chillax/Wallpapers/modern-dark-bg.png");
-    --modern-light-bg: url("https://manifestily.github.io/Chillax/Wallpapers/modern-light-bg.png");
+    --modern-dark-bg: url("https://hatefulvrc.github.io/Chillax/Wallpapers/modern-dark-bg.png");
+    --modern-light-bg: url("https://hatefulvrc.github.io/Chillax/Wallpapers/modern-light-bg.png");
 }
 
 
